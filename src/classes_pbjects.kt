@@ -18,5 +18,4 @@ fun main(){
     println(c1.year)    // Outputs 1969
     println(c2.brand)   // Outputs Ford
     println(c2.model)   // Outputs Mustang
-    println(c2.year)
 }
