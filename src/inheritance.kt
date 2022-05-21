@@ -6,7 +6,7 @@ open class MyParentClass {
 // Subclass
 class MyChildClass: MyParentClass() {
     fun myFunction() {
-        println(x) // x is now inherited from the superclass
+        println(x) // is now inherited from the superclass
     }
 }
 
